@@ -4,7 +4,7 @@ Growify is a template of a decentralized platform that gives developers the chan
 
 ## Screenshots
 
-![App Screenshot](./src/assets/screenshot.png)
+![App Screenshot](./src/assets/screenshot1.png)
 
 ## Run Locally
 
